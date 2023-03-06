@@ -10,3 +10,7 @@
 | [c05](https://github.com/RnSiilva/42-piscine/tree/main/c00) | 80% |
 | [c06](https://github.com/RnSiilva/42-piscine/tree/main/c00) | 100% |
 | [c07](https://github.com/RnSiilva/42-piscine/tree/main/c00) | 60% |
+| Exam00 | 20% |
+| Exam01 | 20% |
+| Exam02 | 40% |
+| FinalExam | 48% |
